@@ -1,4 +1,4 @@
-![front-end developer ](https://github.com/mohazizzi/mohazizzi/blob/main/ponisha%20bord%20v1-01.jpg?raw=true) 
+![front-end developer ](https://raw.githubusercontent.com/mohazizzi/mohazizzi/main/ponisha%20bord%20v1-01.jpg) 
 
 ### Hi there, my name is Mohammadreza Azizi
 
